@@ -1,0 +1,82 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Lucien Dupont",
+	"icon": "https://micro.blog/lwdupont/avatar.jpg",
+	"home_page_url": "https://luciendupont.com/",
+	"feed_url": "https://luciendupont.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://lwdupont.micro.blog/2023/01/18/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780857668486\">The Aleph Extraction</a> by Dan Moren 📚</p>\n\n<p>This was a great book. love seeing the characters back, and adding a new one. On to the last book in the trilogy.</p>\n",
+				"content_text": "Finished reading: [The Aleph Extraction](https://micro.blog/books/9780857668486) by Dan Moren 📚\r\n\r\n\r\nThis was a great book. love seeing the characters back, and adding a new one. On to the last book in the trilogy. \n",
+				"date_published": "2023-01-18T20:20:49-08:00",
+				"url": "https://luciendupont.com/2023/01/18/finished-reading-the.html"
+			},
+			{
+				"id": "http://lwdupont.micro.blog/2023/01/18/well-i-might.html",
+				
+				"content_html": "<p>Well - I might be sick again. Caught the flu or something before Christmas. Was finally feeling better last week, but this afternoon starting feeling very sore and cold.</p>\n\n<p>I’m hoping it’s just from working out yesterday. 🤞(not Covid, test was negative)</p>\n",
+				"content_text": "Well - I might be sick again. Caught the flu or something before Christmas. Was finally feeling better last week, but this afternoon starting feeling very sore and cold. \n\nI’m hoping it’s just from working out yesterday. 🤞(not Covid, test was negative) \n",
+				"date_published": "2023-01-18T20:06:33-08:00",
+				"url": "https://luciendupont.com/2023/01/18/well-i-might.html"
+			},
+			{
+				"id": "http://lwdupont.micro.blog/2023/01/15/ok-officially-switched.html",
+				
+				"content_html": "<p>Ok - officially switched over my <a href=\"https://luciendupont.com/\">luciendupont.com</a> domain name to this micro.blog instance. I&rsquo;m loving the speed and features of <a href=\"http://micro.blog/\">micro.blog</a>. And I&rsquo;m <em>really</em> enjoying paying for something that a small team has built over the years :)</p>\n\n<p>I urge you to check it out if you haven&rsquo;t.</p>\n",
+				"content_text": "Ok - officially switched over my [luciendupont.com](https://luciendupont.com/) domain name to this micro.blog instance. I'm loving the speed and features of [micro.blog](http://micro.blog/). And I'm _really_ enjoying paying for something that a small team has built over the years :) \r\n\r\nI urge you to check it out if you haven't. \n",
+				"date_published": "2023-01-15T22:37:25-08:00",
+				"url": "https://luciendupont.com/2023/01/15/ok-officially-switched.html"
+			},
+			{
+				"id": "http://lwdupont.micro.blog/2023/01/12/i-really-enjoyed.html",
+				
+				"content_html": "<p>I really enjoyed this book - some good traditional sci-fi, with a bit of humor thrown in. Would make a great movie or tv show.</p>\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9780857668202\">The Bayern Agenda: The Galactic Cold War, Book I</a> by Dan Moren 📚</p>\n",
+				"content_text": "I really enjoyed this book - some good traditional sci-fi, with a bit of humor thrown in. Would make a great movie or tv show. \r\n\r\nFinished reading: [The Bayern Agenda: The Galactic Cold War, Book I](https://micro.blog/books/9780857668202) by Dan Moren 📚\n",
+				"date_published": "2023-01-12T13:39:14-08:00",
+				"url": "https://luciendupont.com/2023/01/12/i-really-enjoyed.html"
+			},
+			{
+				"id": "http://lwdupont.micro.blog/2022/12/21/its-fun-seeing.html",
+				
+				"content_html": "<p>It&rsquo;s fun seeing how micro.blog handles shorter vs longer posts. 😀</p>\n",
+				"content_text": "It's fun seeing how micro.blog handles shorter vs longer posts. 😀\n",
+				"date_published": "2022-12-21T10:54:50-08:00",
+				"url": "https://luciendupont.com/2022/12/21/its-fun-seeing.html"
+			},
+			{
+				"id": "http://lwdupont.micro.blog/2022/12/21/grand-plans.html",
+				"title": "Grand Plans…",
+				"content_html": "<p>My grand plan of cleaning up a lot of code at work during this &lsquo;down&rsquo; week has been thwarted by my cough/cold annoyance.. middle of the night amazon order of some drugs I hope to help.</p>\n\n<p>I took the day off so I don&rsquo;t feel gulty taking a 2 hour nap again.</p>\n",
+				"content_text": "My grand plan of cleaning up a lot of code at work during this 'down' week has been thwarted by my cough/cold annoyance.. middle of the night amazon order of some drugs I hope to help. \r\n\r\nI took the day off so I don't feel gulty taking a 2 hour nap again. \r\n",
+				"date_published": "2022-12-21T10:54:04-08:00",
+				"url": "https://luciendupont.com/2022/12/21/grand-plans.html"
+			},
+			{
+				"id": "http://lwdupont.micro.blog/2022/12/06/ive-really-been.html",
+				
+				"content_html": "<p>I&rsquo;ve really been enjoying Willow on Disney+, and looking forward to tomorrow&rsquo;s episode. Hannah Waddingham is on it!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=uLejza_x0xU\">www.youtube.com/watch</a></p>\n",
+				"content_text": "I've really been enjoying Willow on Disney+, and looking forward to tomorrow's episode. Hannah Waddingham is on it!\n\n[www.youtube.com/watch](https://www.youtube.com/watch?v=uLejza_x0xU)\n\n",
+				"date_published": "2022-12-06T13:44:12-08:00",
+				"url": "https://luciendupont.com/2022/12/06/ive-really-been.html"
+			},
+			{
+				"id": "http://lwdupont.micro.blog/2022/11/27/i-do-love.html",
+				
+				"content_html": "<p>I do love fall colors. The San Diego region doesn’t have enough for my tastes.</p>\n\n<p><img src=\"uploads/2022/936680e44b.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "I do love fall colors. The San Diego region doesn’t have enough for my tastes. \n\n<img src=\"uploads/2022/936680e44b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-11-27T13:05:47-08:00",
+				"url": "https://luciendupont.com/2022/11/27/i-do-love.html"
+			},
+			{
+				"id": "http://lwdupont.micro.blog/2022/11/17/instead-of-installing.html",
+				
+				"content_html": "<p>Instead of installing my own Mastodon instance, why not use this and support a small indie company?</p>\n\n<p>It’s been a long while since I’ve checked this out. Seems to be a lot of cool features now.</p>\n",
+				"content_text": "Instead of installing my own Mastodon instance, why not use this and support a small indie company? \n\nIt’s been a long while since I’ve checked this out. Seems to be a lot of cool features now. \n",
+				"date_published": "2022-11-17T22:20:10-08:00",
+				"url": "https://luciendupont.com/2022/11/17/instead-of-installing.html"
+			}
+	]
+}
