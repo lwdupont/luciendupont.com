@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://lwdupont.micro.blog/2023/02/11/our-dog-galaxy.html",
+				
+				"content_html": "<p>Our dog Galaxy has some funny “relaxing” poses:</p>\n\n<p><img src=\"uploads/2023/2d9565a8ba.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Our dog Galaxy has some funny “relaxing” poses: \n\n<img src=\"uploads/2023/2d9565a8ba.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-11T15:18:23-08:00",
+				"url": "https://luciendupont.com/2023/02/11/our-dog-galaxy.html"
+			},
+			{
+				"id": "http://lwdupont.micro.blog/2023/02/02/it-seems-too.html",
+				
+				"content_html": "<p>It seems too early for the trees to be blooming in San Diego. Taken out my sunroof after dropping my daughter off at school.</p>\n\n<p><img src=\"uploads/2023/d1f0bc74fc.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "It seems too early for the trees to be blooming in San Diego. Taken out my sunroof after dropping my daughter off at school. \n\n<img src=\"uploads/2023/d1f0bc74fc.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-02-02T22:29:32-08:00",
+				"url": "https://luciendupont.com/2023/02/02/it-seems-too.html"
+			},
+			{
 				"id": "http://lwdupont.micro.blog/2023/01/18/finished-reading-the.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780857668486\">The Aleph Extraction</a> by Dan Moren 📚</p>\n\n<p>This was a great book. love seeing the characters back, and adding a new one. On to the last book in the trilogy.</p>\n",
