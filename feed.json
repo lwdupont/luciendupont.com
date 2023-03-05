@@ -7,10 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://lwdupont.micro.blog/2023/03/04/zip.html",
+				
+				"content_html": "<p>Zip:</p>\n\n<p><img src=\"uploads/2023/836a1a0905.jpg\" width=\"600\" height=\"450\" alt=\"Photo of the day, a macro picture of my zipper and grey hoodie on ether side\"></p>\n",
+				"content_text": "Zip: \n\n<img src=\"uploads/2023/836a1a0905.jpg\" width=\"600\" height=\"450\" alt=\"Photo of the day, a macro picture of my zipper and grey hoodie on ether side\">\n",
+				"date_published": "2023-03-04T19:17:52-08:00",
+				"url": "https://luciendupont.com/2023/03/04/zip.html"
+			},
+			{
+				"id": "http://lwdupont.micro.blog/2023/03/03/solitude.html",
+				
+				"content_html": "<p>Solitude</p>\n\n<p><img src=\"uploads/2023/a9ec2c2e6c.jpg\" width=\"450\" height=\"600\" alt=\"A fading sunset with a small con trail of a plane flying. \"></p>\n",
+				"content_text": "Solitude\n\n<img src=\"uploads/2023/a9ec2c2e6c.jpg\" width=\"450\" height=\"600\" alt=\"A fading sunset with a small con trail of a plane flying. \">\n",
+				"date_published": "2023-03-03T17:57:02-08:00",
+				"url": "https://luciendupont.com/2023/03/03/solitude.html"
+			},
+			{
+				"id": "http://lwdupont.micro.blog/2023/03/02/weather.html",
+				
+				"content_html": "<p>Weather</p>\n\n<p><img src=\"uploads/2023/af35acc1dc.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Weather\n\n<img src=\"uploads/2023/af35acc1dc.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-02T14:54:46-08:00",
+				"url": "https://luciendupont.com/2023/03/02/weather.html"
+			},
+			{
+				"id": "http://lwdupont.micro.blog/2023/03/01/secure-day-one.html",
+				
+				"content_html": "<p>Secure. Day one of the photo <a href=\"https://micro.blog/challenges\">@challenges</a></p>\n\n<p><img src=\"uploads/2023/e06533f4b7.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Secure. Day one of the photo [@challenges](https://micro.blog/challenges)\n\n\n\n<img src=\"uploads/2023/e06533f4b7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-01T19:10:47-08:00",
+				"url": "https://luciendupont.com/2023/03/01/secure-day-one.html"
+			},
+			{
 				"id": "http://lwdupont.micro.blog/2023/02/27/i-never-know.html",
 				
-				"content_html": "<p>I never know what to post on blogs/microblogs, etc…. so I am really looking forward to the March photo @challenge to get my posting going :)</p>\n",
-				"content_text": "I never know what to post on blogs/microblogs, etc…. so I am really looking forward to the March photo @challenge to get my posting going :) \n",
+				"content_html": "<p>I never know what to post on blogs/microblogs, etc…. so I am really looking forward to the March photo @challenges to get my posting going :)</p>\n",
+				"content_text": "I never know what to post on blogs/microblogs, etc…. so I am really looking forward to the March photo @challenges to get my posting going :) \n",
 				"date_published": "2023-02-27T18:27:55-08:00",
 				"url": "https://luciendupont.com/2023/02/27/i-never-know.html"
 			},
