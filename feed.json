@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://lwdupont.micro.blog/2023/03/10/today-at-work.html",
+				
+				"content_html": "<p>Today at work was &ldquo;Focus Friday&rdquo; - and I called it &ldquo;bug fix Friday&rsquo; - I spent the day fixing some bugs that had been annoying me and other people, and then added a small feature I&rsquo;ve been wanting for a while.. (command + / - to increase / decrease font sizes in the app).  It was a great day!</p>\n",
+				"content_text": "Today at work was \"Focus Friday\" - and I called it \"bug fix Friday' - I spent the day fixing some bugs that had been annoying me and other people, and then added a small feature I've been wanting for a while.. (command + / - to increase / decrease font sizes in the app).  It was a great day!\n",
+				"date_published": "2023-03-10T20:25:23-08:00",
+				"url": "https://luciendupont.com/2023/03/10/today-at-work.html"
+			},
+			{
+				"id": "http://lwdupont.micro.blog/2023/03/07/the-whole-logo.html",
+				
+				"content_html": "<p>The whole logo:</p>\n\n<p><img src=\"uploads/2023/4aab9558b9.jpg\" width=\"450\" height=\"600\" alt=\"The Rivian logo shining down on the ground at night. \"></p>\n",
+				"content_text": "The whole logo: \n\n<img src=\"uploads/2023/4aab9558b9.jpg\" width=\"450\" height=\"600\" alt=\"The Rivian logo shining down on the ground at night. \">\n",
+				"date_published": "2023-03-07T20:57:11-08:00",
+				"url": "https://luciendupont.com/2023/03/07/the-whole-logo.html"
+			},
+			{
+				"id": "http://lwdupont.micro.blog/2023/03/07/i-had-a.html",
+				
+				"content_html": "<p>I had a meeting with folks and a director today at work. At one point she asked me how long for some work. And I said like a week.</p>\n\n<p>Oops. It’s never like a week. 🤪</p>\n",
+				"content_text": "I had a meeting with folks and a director today at work. At one point she asked me how long for some work. And I said like a week. \n\nOops. It’s never like a week. 🤪\n",
+				"date_published": "2023-03-07T17:54:07-08:00",
+				"url": "https://luciendupont.com/2023/03/07/i-had-a.html"
+			},
+			{
+				"id": "http://lwdupont.micro.blog/2023/03/07/the-photo-challenge.html",
+				
+				"content_html": "<p>The photo challenge prompt is “whole” for today. But I can’t stop thinking about “hole”. 🤣</p>\n\n<p>This is the building next to my daughters gymnastics place. The truck loading ramp goes down into a hole. 😉</p>\n\n<p><img src=\"uploads/2023/1203679358.jpg\" width=\"450\" height=\"600\" alt=\"A warehouse truck loading ramp with a silver, rectangular door, two white walls on either side of the door that extend out on either side of the ramp. &10;\"></p>\n",
+				"content_text": "The photo challenge prompt is “whole” for today. But I can’t stop thinking about “hole”. 🤣\n\nThis is the building next to my daughters gymnastics place. The truck loading ramp goes down into a hole. 😉\n\n\n\n<img src=\"uploads/2023/1203679358.jpg\" width=\"450\" height=\"600\" alt=\"A warehouse truck loading ramp with a silver, rectangular door, two white walls on either side of the door that extend out on either side of the ramp. &10;\">\n",
+				"date_published": "2023-03-07T17:53:05-08:00",
+				"url": "https://luciendupont.com/2023/03/07/the-photo-challenge.html"
+			},
+			{
 				"id": "http://lwdupont.micro.blog/2023/03/04/zip.html",
 				
 				"content_html": "<p>Zip:</p>\n\n<p><img src=\"uploads/2023/836a1a0905.jpg\" width=\"600\" height=\"450\" alt=\"Photo of the day, a macro picture of my zipper and grey hoodie on ether side\"></p>\n",
