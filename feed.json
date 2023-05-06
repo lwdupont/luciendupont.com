@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://lwdupont.micro.blog/2023/05/06/some-nice-neighbors.html",
+				
+				"content_html": "<p>Some nice neighbors are changing part of their garage into a gym, and said I could buy their metal shelves at a discount.</p>\n\n<p>Of course that means I need to start cleaning up my garage. 🙃 Nope, not posting a picture. Yet. 😀</p>\n",
+				"content_text": "Some nice neighbors are changing part of their garage into a gym, and said I could buy their metal shelves at a discount. \n\nOf course that means I need to start cleaning up my garage. 🙃 Nope, not posting a picture. Yet. 😀\n",
+				"date_published": "2023-05-06T11:08:49-07:00",
+				"url": "https://luciendupont.com/2023/05/06/some-nice-neighbors.html"
+			},
+			{
 				"id": "http://lwdupont.micro.blog/2023/03/10/today-at-work.html",
 				
 				"content_html": "<p>Today at work was &ldquo;Focus Friday&rdquo; - and I called it &ldquo;bug fix Friday&rsquo; - I spent the day fixing some bugs that had been annoying me and other people, and then added a small feature I&rsquo;ve been wanting for a while.. (command + / - to increase / decrease font sizes in the app).  It was a great day!</p>\n",
@@ -41,8 +49,8 @@
 			{
 				"id": "http://lwdupont.micro.blog/2023/03/04/zip.html",
 				
-				"content_html": "<p>Zip:</p>\n\n<p><img src=\"uploads/2023/836a1a0905.jpg\" width=\"600\" height=\"450\" alt=\"Photo of the day, a macro picture of my zipper and grey hoodie on ether side\"></p>\n",
-				"content_text": "Zip: \n\n<img src=\"uploads/2023/836a1a0905.jpg\" width=\"600\" height=\"450\" alt=\"Photo of the day, a macro picture of my zipper and grey hoodie on ether side\">\n",
+				"content_html": "<p>Zip:</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/249/2023/836a1a0905.jpg\" width=\"600\" height=\"450\" alt=\"Photo of the day, a macro picture of my zipper and grey hoodie on ether side\"></p>\n",
+				"content_text": "Zip: \n\n<img src=\"https://cdn.uploads.micro.blog/249/2023/836a1a0905.jpg\" width=\"600\" height=\"450\" alt=\"Photo of the day, a macro picture of my zipper and grey hoodie on ether side\">\n",
 				"date_published": "2023-03-04T20:17:52-07:00",
 				"url": "https://luciendupont.com/2023/03/04/zip.html"
 			},
@@ -57,8 +65,8 @@
 			{
 				"id": "http://lwdupont.micro.blog/2023/03/02/weather.html",
 				
-				"content_html": "<p>Weather</p>\n\n<p><img src=\"uploads/2023/af35acc1dc.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Weather\n\n<img src=\"uploads/2023/af35acc1dc.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Weather</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/249/2023/af35acc1dc.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Weather\n\n<img src=\"https://cdn.uploads.micro.blog/249/2023/af35acc1dc.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-02T15:54:46-07:00",
 				"url": "https://luciendupont.com/2023/03/02/weather.html"
 			},
