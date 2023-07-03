@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://lwdupont.micro.blog/2023/06/04/addiction.html",
+				"title": "Addiction",
+				"content_html": "<p>Almost every year where I watch the WWDC keynote virtually I’d have twitter / Mastodon up, following along with peoples thoughts and reactions in real-ish time. But not really focusing on the presentation itself.</p>\n\n<p>This year I’m going to do something different. I’m traveling to Cupertino to be with my coworkers, and I’ll be closing my laptop and just be with them and the presentation.</p>\n\n<p>I’ve also found myself, when bored, turning to Reddit / Twitter / Mastodon. I’m going to set up One Sec to prevent that, and hopefully break me of that habit this week. I already feel like it’s going to be tough. 🙂</p>\n",
+				"content_text": "Almost every year where I watch the WWDC keynote virtually I’d have twitter / Mastodon up, following along with peoples thoughts and reactions in real-ish time. But not really focusing on the presentation itself. \n\nThis year I’m going to do something different. I’m traveling to Cupertino to be with my coworkers, and I’ll be closing my laptop and just be with them and the presentation. \n\nI’ve also found myself, when bored, turning to Reddit / Twitter / Mastodon. I’m going to set up One Sec to prevent that, and hopefully break me of that habit this week. I already feel like it’s going to be tough. 🙂\n",
+				"date_published": "2023-06-04T13:41:45-07:00",
+				"url": "https://luciendupont.com/2023/06/04/addiction.html"
+			},
+			{
 				"id": "http://lwdupont.micro.blog/2023/05/13/drove-my-two.html",
 				
 				"content_html": "<p>Drove my two daughters around to various events today. They sat in the back and chatted. it was super fun to hear them be friends. Mini adults in a sense.</p>\n\n<p>Filled my bucket. ❤️</p>\n",
@@ -65,8 +73,8 @@
 			{
 				"id": "http://lwdupont.micro.blog/2023/03/03/solitude.html",
 				
-				"content_html": "<p>Solitude</p>\n\n<p><img src=\"uploads/2023/a9ec2c2e6c.jpg\" width=\"450\" height=\"600\" alt=\"A fading sunset with a small con trail of a plane flying. \"></p>\n",
-				"content_text": "Solitude\n\n<img src=\"uploads/2023/a9ec2c2e6c.jpg\" width=\"450\" height=\"600\" alt=\"A fading sunset with a small con trail of a plane flying. \">\n",
+				"content_html": "<p>Solitude</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/249/2023/a9ec2c2e6c.jpg\" width=\"450\" height=\"600\" alt=\"A fading sunset with a small con trail of a plane flying. \"></p>\n",
+				"content_text": "Solitude\n\n<img src=\"https://cdn.uploads.micro.blog/249/2023/a9ec2c2e6c.jpg\" width=\"450\" height=\"600\" alt=\"A fading sunset with a small con trail of a plane flying. \">\n",
 				"date_published": "2023-03-03T18:57:02-07:00",
 				"url": "https://luciendupont.com/2023/03/03/solitude.html"
 			},
