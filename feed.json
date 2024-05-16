@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://lwdupont.micro.blog/2024/05/16/bbedit-has-been.html",
+				
+				"content_html": "<p>BBEdit has been saving me this week, with its nice search / replace grep functionality. Love it!</p>\n\n<p><a href=\"https://www.barebones.com/products/bbedit/index.html\">www.barebones.com/products/&hellip;</a></p>\n",
+				"content_text": "BBEdit has been saving me this week, with its nice search / replace grep functionality. Love it!\n\n[www.barebones.com/products/...](https://www.barebones.com/products/bbedit/index.html)\n",
+				"date_published": "2024-05-16T15:54:19-07:00",
+				"url": "https://luciendupont.com/2024/05/16/bbedit-has-been.html"
+			},
+			{
 				"id": "http://lwdupont.micro.blog/2024/04/10/a-disneyland-duck.html",
 				
 				"content_html": "<p>A Disneyland duck</p>\n\n<p><img src=\"uploads/2024/0266846bf2.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
