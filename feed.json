@@ -1,11 +1,19 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Lucien Dupont",
-	"icon": "https://micro.blog/lwdupont/avatar.jpg",
+	"icon": "https://avatars.micro.blog/avatars/2024/44/91.jpg",
 	"home_page_url": "https://luciendupont.com/",
 	"feed_url": "https://luciendupont.com/feed.json",
 	"items": [
 		
+			{
+				"id": "http://lwdupont.micro.blog/2025/09/19/liquid-glass-thoughts.html",
+				"title": "Liquid Glass Thoughts",
+				"content_html": "<p>I haven&rsquo;t been minding Liquid Glass on the iPhone and iPad&hellip; ya, the animations are a little distracting, but fun.</p>\n<p>On macOS it&rsquo;s fine. I haven&rsquo;t noticed any functionality issues..</p>\n<p>But this screenshot showing my top left corner on my laptop screen has been bugging me. The rounded window corner against the square desktop just looks weird..</p>\n<p>Although as I type this, I realize I have turned on the accessibility function to show the menu bar.. and just turned that off, no change.</p>\n<p>And I also had reduce transparency on, turning that off helped a bit.. it&rsquo;d be nice to have dark menu bar text in dark mode.</p>\n<p><img src=\"uploads/2025/image.png\" width=\"154\" height=\"134\" alt=\"The top left part of my menu bar, with reduced transparency and show the menu bar on under macOS 26. It’s showing a black, rounded window frame, with a light background desktop ending a sharp point in the top left. \"><img src=\"uploads/2025/44ab8f5fef.png\" width=\"406\" height=\"238\" alt=\"The same picture with reduced transparence off, and show menu bar background off.. now the menu bar is showing the background desktop picture and the menu text in white now (vs black before). \"></p>\n",
+				"content_text": "I haven't been minding Liquid Glass on the iPhone and iPad... ya, the animations are a little distracting, but fun. \n\nOn macOS it's fine. I haven't noticed any functionality issues.. \n\nBut this screenshot showing my top left corner on my laptop screen has been bugging me. The rounded window corner against the square desktop just looks weird.. \n\nAlthough as I type this, I realize I have turned on the accessibility function to show the menu bar.. and just turned that off, no change. \n\nAnd I also had reduce transparency on, turning that off helped a bit.. it'd be nice to have dark menu bar text in dark mode. \n\n\n\n\n<img src=\"uploads/2025/image.png\" width=\"154\" height=\"134\" alt=\"The top left part of my menu bar, with reduced transparency and show the menu bar on under macOS 26. It’s showing a black, rounded window frame, with a light background desktop ending a sharp point in the top left. \"><img src=\"uploads/2025/44ab8f5fef.png\" width=\"406\" height=\"238\" alt=\"The same picture with reduced transparence off, and show menu bar background off.. now the menu bar is showing the background desktop picture and the menu text in white now (vs black before). \">\n",
+				"date_published": "2025-09-19T21:28:56-07:00",
+				"url": "https://luciendupont.com/2025/09/19/liquid-glass-thoughts.html"
+			},
 			{
 				"id": "http://lwdupont.micro.blog/2025/07/15/paul-hudsons-everything-but-the.html",
 				"title": "Paul Hudson's Everything But The Code",
@@ -65,7 +73,7 @@
 			{
 				"id": "http://lwdupont.micro.blog/2024/04/10/a-disneyland-duck.html",
 				
-				"content_html": "<p>A Disneyland duck</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>A Disneyland duck</p>\n<img src=\"https://cdn.uploads.micro.blog/249/2024/0266846bf2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "A Disneyland duck \n\n<img src=\"https://cdn.uploads.micro.blog/249/2024/0266846bf2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-10T15:31:36-07:00",
 				"url": "https://luciendupont.com/2024/04/10/a-disneyland-duck.html"
@@ -73,7 +81,7 @@
 			{
 				"id": "http://lwdupont.micro.blog/2024/03/13/went-to-my.html",
 				
-				"content_html": "<p>Went to my eldest daughter’s choir concert tonight. It was outstanding. There’s somethingnt about choral type music that is really calming.</p>\n<p>A picture of their last song involving hand movements.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Went to my eldest daughter’s choir concert tonight. It was outstanding. There’s somethingnt about choral type music that is really calming.</p>\n<p>A picture of their last song involving hand movements.</p>\n<img src=\"https://cdn.uploads.micro.blog/249/2024/87dc3d9ae9.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"content_text": "Went to my eldest daughter’s choir concert tonight. It was outstanding. There’s somethingnt about choral type music that is really calming. \n\nA picture of their last song involving hand movements. \n\n<img src=\"https://cdn.uploads.micro.blog/249/2024/87dc3d9ae9.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2024-03-13T21:37:06-07:00",
 				"url": "https://luciendupont.com/2024/03/13/went-to-my.html"
@@ -129,7 +137,7 @@
 			{
 				"id": "http://lwdupont.micro.blog/2023/03/07/the-whole-logo.html",
 				
-				"content_html": "<p>The whole logo:</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>The whole logo:</p>\n<img src=\"https://cdn.uploads.micro.blog/249/2023/4aab9558b9.jpg\" width=\"450\" height=\"600\" alt=\"The Rivian logo shining down on the ground at night. \">\n",
 				"content_text": "The whole logo: \n\n<img src=\"https://cdn.uploads.micro.blog/249/2023/4aab9558b9.jpg\" width=\"450\" height=\"600\" alt=\"The Rivian logo shining down on the ground at night. \">\n",
 				"date_published": "2023-03-07T21:57:11-07:00",
 				"url": "https://luciendupont.com/2023/03/07/the-whole-logo.html"
@@ -145,7 +153,7 @@
 			{
 				"id": "http://lwdupont.micro.blog/2023/03/07/the-photo-challenge.html",
 				
-				"content_html": "<p>The photo challenge prompt is “whole” for today. But I can’t stop thinking about “hole”. 🤣</p>\n<p>This is the building next to my daughters gymnastics place. The truck loading ramp goes down into a hole. 😉</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>The photo challenge prompt is “whole” for today. But I can’t stop thinking about “hole”. 🤣</p>\n<p>This is the building next to my daughters gymnastics place. The truck loading ramp goes down into a hole. 😉</p>\n<img src=\"https://cdn.uploads.micro.blog/249/2023/1203679358.jpg\" width=\"450\" height=\"600\" alt=\"A warehouse truck loading ramp with a silver, rectangular door, two white walls on either side of the door that extend out on either side of the ramp. &10;\">\n",
 				"content_text": "The photo challenge prompt is “whole” for today. But I can’t stop thinking about “hole”. 🤣\n\nThis is the building next to my daughters gymnastics place. The truck loading ramp goes down into a hole. 😉\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/249/2023/1203679358.jpg\" width=\"450\" height=\"600\" alt=\"A warehouse truck loading ramp with a silver, rectangular door, two white walls on either side of the door that extend out on either side of the ramp. &10;\">\n",
 				"date_published": "2023-03-07T18:53:05-07:00",
 				"url": "https://luciendupont.com/2023/03/07/the-photo-challenge.html"
@@ -153,7 +161,7 @@
 			{
 				"id": "http://lwdupont.micro.blog/2023/03/04/zip.html",
 				
-				"content_html": "<p>Zip:</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Zip:</p>\n<img src=\"https://cdn.uploads.micro.blog/249/2023/836a1a0905.jpg\" width=\"600\" height=\"450\" alt=\"Photo of the day, a macro picture of my zipper and grey hoodie on ether side\">\n",
 				"content_text": "Zip: \n\n<img src=\"https://cdn.uploads.micro.blog/249/2023/836a1a0905.jpg\" width=\"600\" height=\"450\" alt=\"Photo of the day, a macro picture of my zipper and grey hoodie on ether side\">\n",
 				"date_published": "2023-03-04T20:17:52-07:00",
 				"url": "https://luciendupont.com/2023/03/04/zip.html"
@@ -161,7 +169,7 @@
 			{
 				"id": "http://lwdupont.micro.blog/2023/03/03/solitude.html",
 				
-				"content_html": "<p>Solitude</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Solitude</p>\n<img src=\"https://cdn.uploads.micro.blog/249/2023/a9ec2c2e6c.jpg\" width=\"450\" height=\"600\" alt=\"A fading sunset with a small con trail of a plane flying. \">\n",
 				"content_text": "Solitude\n\n<img src=\"https://cdn.uploads.micro.blog/249/2023/a9ec2c2e6c.jpg\" width=\"450\" height=\"600\" alt=\"A fading sunset with a small con trail of a plane flying. \">\n",
 				"date_published": "2023-03-03T18:57:02-07:00",
 				"url": "https://luciendupont.com/2023/03/03/solitude.html"
@@ -169,7 +177,7 @@
 			{
 				"id": "http://lwdupont.micro.blog/2023/03/02/weather.html",
 				
-				"content_html": "<p>Weather</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Weather</p>\n<img src=\"https://cdn.uploads.micro.blog/249/2023/af35acc1dc.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "Weather\n\n<img src=\"https://cdn.uploads.micro.blog/249/2023/af35acc1dc.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-02T15:54:46-07:00",
 				"url": "https://luciendupont.com/2023/03/02/weather.html"
@@ -177,7 +185,7 @@
 			{
 				"id": "http://lwdupont.micro.blog/2023/03/01/secure-day-one.html",
 				
-				"content_html": "<p>Secure. Day one of the photo <a href=\"https://micro.blog/challenges\">@challenges</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Secure. Day one of the photo <a href=\"https://micro.blog/challenges\">@challenges</a></p>\n<img src=\"https://cdn.uploads.micro.blog/249/2023/e06533f4b7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "Secure. Day one of the photo [@challenges](https://micro.blog/challenges)\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/249/2023/e06533f4b7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-01T20:10:47-07:00",
 				"url": "https://luciendupont.com/2023/03/01/secure-day-one.html"
@@ -193,7 +201,7 @@
 			{
 				"id": "http://lwdupont.micro.blog/2023/02/11/our-dog-galaxy.html",
 				
-				"content_html": "<p>Our dog Galaxy has some funny “relaxing” poses:</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Our dog Galaxy has some funny “relaxing” poses:</p>\n<img src=\"https://cdn.uploads.micro.blog/249/2023/2d9565a8ba.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "Our dog Galaxy has some funny “relaxing” poses: \n\n<img src=\"https://cdn.uploads.micro.blog/249/2023/2d9565a8ba.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-11T16:18:23-07:00",
 				"url": "https://luciendupont.com/2023/02/11/our-dog-galaxy.html"
@@ -201,7 +209,7 @@
 			{
 				"id": "http://lwdupont.micro.blog/2023/02/02/it-seems-too.html",
 				
-				"content_html": "<p>It seems too early for the trees to be blooming in San Diego. Taken out my sunroof after dropping my daughter off at school.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>It seems too early for the trees to be blooming in San Diego. Taken out my sunroof after dropping my daughter off at school.</p>\n<img src=\"https://cdn.uploads.micro.blog/249/2023/d1f0bc74fc.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "It seems too early for the trees to be blooming in San Diego. Taken out my sunroof after dropping my daughter off at school. \n\n<img src=\"https://cdn.uploads.micro.blog/249/2023/d1f0bc74fc.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-02-02T23:29:32-07:00",
 				"url": "https://luciendupont.com/2023/02/02/it-seems-too.html"
@@ -265,7 +273,7 @@
 			{
 				"id": "http://lwdupont.micro.blog/2022/11/27/i-do-love.html",
 				
-				"content_html": "<p>I do love fall colors. The San Diego region doesn’t have enough for my tastes.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>I do love fall colors. The San Diego region doesn’t have enough for my tastes.</p>\n<img src=\"https://lwdupont.micro.blog/uploads/2022/936680e44b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"content_text": "I do love fall colors. The San Diego region doesn’t have enough for my tastes. \n\n<img src=\"https://lwdupont.micro.blog/uploads/2022/936680e44b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-27T14:05:47-07:00",
 				"url": "https://luciendupont.com/2022/11/27/i-do-love.html"
